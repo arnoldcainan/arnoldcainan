@@ -1,16 +1,87 @@
-## Hi there 👋
 
-<!--
-**arnoldcainan/arnoldcainan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Olá! Eu sou <strong>Arnold Cainan</strong> 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>TITULO</b> • <b>PR2TECH</b> • <
+</p>
+
+<p align="center">
+  <a href="https://github.com/Uroblemas reais** – da concepção ao deploy. Trabalho com **Python/Flask**, **JavaScript/TypeScript** e **React Native**, construindo back‑ends, integrações com APIs (pagamentos, logísticas, mensageria) e front‑ends enxutos e rápidos. Tenho experiência com **Railway** e **GitHub Actions** para CI/CD, além de automações com **Pandas** e jogos/experimentos com **Pygame**.
+
+* 🔭 **Agora:** escalando serviços e ferramentas internas para Pr2tech
+* 🧪 **Stack favorita:** Psk • SQLAlchemy • PostgreSQL • JS • HTML/CSS • React Native (Expo)• React
+* 🛰️ **Interesses:** dados aplicados, e‑commerce, integrações financeiras, UX pragmática
+* 🤝 **Aberto(a) a colaborações** em projetos open source e consultorias de produto
+
+---
+
+### Tech Toolbox
+
+<p>
+  <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32"/>
+  <img alt="Flask" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="32"/>
+  <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="32"/>
+  <img alt="SQLAlchemy" title="SQLAlchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="32"/>
+  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32"/>
+  <img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32"/>
+  <img alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32"/>
+  <img alt="React" title="React / React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32"/>
+  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="32"/>
+  <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="32"/>
+  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="32"/>
+  <img alt="Railway" title="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" height="22"/>
+  <img alt="Pandas" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="32"/>
+  <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="32"/>
+</p>
+
+---
+
+### Métricas rápidas
+
+<p>
+  <!-- GitHub Stats: Light -->
+ c="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estat%C3%ADsticas" alt="Stats" width="49%"/>
+  <!-- Streak: Light -->
+  <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=truStreak" width="49%"/>
+</p>
+
+<p>
+  <!-- GitHub Stats: Dark only -->
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&rank_icon=github&hide_border=true&theme=github_dam_title=Minhas%20estat%C3%ADsticas#gh-dark-mode-only" alt="Stats dark" width="49%"/>
+  <!-- Streak: Dark only -->
+  <img src="https://streak-stats.demolab.com?user=USEde_border=true&theme=dark#gh-dark-mode-only" alt="Streak dark" width="49%"/>
+</p>
+
+<p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=10&hide_border=true" alt="Tages" width="49%"/>
+  <!-- Troféus (opcional) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&margin-w=8&margin-h=8&no-bg=true&no-frame=true&column=3" alt="Troféus" width="49>
+
+---
+
+### Projetos/Temas que curto construir
+
+* 🛒 **E‑commerce & pagamentos**: carrinho, cupons, sitema de pagamentos, cálculo de frete
+* 🧬 **Saúde digital**: prontuários simples, dashboards e ins com mensageria (WhatsApp/Twilio)
+* 🧩 **Jogos/Simuladores**: Pygame e dispositivos físicos (serial/USB)
+* 🧮 **Data & automações**: ETL leve com Pandas/XLSX, análises operacionais
+
+Se quiser trocar ideia, me chame: **arnold.cainan@gmail.com**
+
+---
+
+<details>
+  <summary>English version</summary>
+
+Hi! I build **pragmatic digital products** end‑to‑end — from backend to UX. My daily stack: **Python/Flask**, **PostgreSQL/SQLAlchemy**, and **React Native**. I ship on **Railway** and automate with **GitHub Actions** and **Pandas**.
+
+* Now: scaling internal tools for PR2TECH
+* Interests: e‑commerce/payment flows, health automation, small games
+* Open to collabs & consulting
+
+</details>
+
+
+— Obrigado por visitar! ⭐️ Se algum projeto te ajudar, deixe uma star.
