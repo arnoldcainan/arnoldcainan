@@ -43,21 +43,21 @@
   <!-- GitHub Stats: Light -->
  c="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estat%C3%ADsticas" alt="Stats" width="49%"/>
   <!-- Streak: Light -->
-  <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=truStreak" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=truStreak" width="49%"/>
 </p>
 
 <p>
   <!-- GitHub Stats: Dark only -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&rank_icon=github&hide_border=true&theme=github_dam_title=Minhas%20estat%C3%ADsticas#gh-dark-mode-only" alt="Stats dark" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&theme=github_dam_title=Minhas%20estat%C3%ADsticas#gh-dark-mode-only" alt="Stats dark" width="49%"/>
   <!-- Streak: Dark only -->
   <img src="https://streak-stats.demolab.com?user=USEde_border=true&theme=dark#gh-dark-mode-only" alt="Streak dark" width="49%"/>
 </p>
 
 <p>
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=10&hide_border=true" alt="Tages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldcainan&layout=compact&langs_count=10&hide_border=true" alt="Tages" width="49%"/>
   <!-- Troféus (opcional) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&margin-w=8&margin-h=8&no-bg=true&no-frame=true&column=3" alt="Troféus" width="49>
+  <img src="https://github-profile-trophy.vercel.app/?username=arnoldcainan&margin-w=8&margin-h=8&no-bg=true&no-frame=true&column=3" alt="Troféus" width="49>
 
 ---
 
