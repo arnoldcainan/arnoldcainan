@@ -57,8 +57,7 @@
 <p>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldcainan&layout=compact&langs_count=10&hide_border=true" alt="Tages" width="49%"/>
-  <!-- Troféus (opcional) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=arnoldcainan&margin-w=8&margin-h=8&no-bg=true&no-frame=true&column=3" alt="Troféus" width="49>
+
 
 ---
 
