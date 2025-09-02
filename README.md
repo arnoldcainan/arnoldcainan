@@ -3,7 +3,7 @@
 <h1 align="center">Olá! Eu sou <strong>Arnold Cainan</strong> 👋</h1>
 
 <p align="center">
-  <b>TITULO</b> • <b>PR2TECH</b> • <
+  > • <b>Analyst Software Engineer</b> • <b>PR2TECH</b> • <
 </p>
 
 <p align="center">
@@ -41,16 +41,17 @@
 
 <p>
   <!-- GitHub Stats: Light -->
- c="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estat%C3%ADsticas" alt="Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estat%C3%ADsticas" alt="Stats" width="49%" />
+
   <!-- Streak: Light -->
-  <img src="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=truStreak" width="49%"/>
+  <!--<img src="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=truStreak" width="49%"/> -->
 </p>
 
 <p>
   <!-- GitHub Stats: Dark only -->
   <img src="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&theme=github_dam_title=Minhas%20estat%C3%ADsticas#gh-dark-mode-only" alt="Stats dark" width="49%"/>
   <!-- Streak: Dark only -->
-  <img src="https://streak-stats.demolab.com?user=USEde_border=true&theme=dark#gh-dark-mode-only" alt="Streak dark" width="49%"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=USEde_border=true&theme=dark#gh-dark-mode-only" alt="Streak dark" width="49%"/>-->
 </p>
 
 <p>
