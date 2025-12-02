@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Arnold Cainan 👋</h1>
+<h1 align="center">Olá! Eu sou Arnold Cainan </h1>
 
 <h3 align="center">
   Desenvolvedor Python | Backend Specialist | APIs Escaláveis
