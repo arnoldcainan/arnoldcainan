@@ -40,22 +40,17 @@
 ### Métricas rápidas
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estatísticas&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estatísticas&theme=default" alt="GitHub Stats" width="48%" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
-    <img src="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=true&theme=default&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="48%" />
-  </picture>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estat%C3%ADsticas&theme=tokyonight" alt="Arnold Cainan's GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Arnold Cainan's Streak" />
+  </a>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldcainan&layout=compact&langs_count=10&hide_border=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldcainan&layout=compact&langs_count=10&hide_border=true&theme=default" alt="Top Languages" width="97%" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldcainan&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
