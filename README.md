@@ -1,81 +1,79 @@
+<h1 align="center">Olá! Eu sou Arnold Cainan 👋</h1>
 
-
-<h1 align="center">Olá! Eu sou <strong>Arnold Cainan</strong> 👋</h1>
-
-<p align="center">
-  > • <b>Analyst Software Engineer</b> • <b>PR2TECH</b> • <
-</p>
+<h3 align="center">
+  Desenvolvedor Python | Backend Specialist | APIs Escaláveis
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Uroblemas reais** – da concepção ao deploy. Trabalho com **Python/Flask**, **JavaScript/TypeScript** e **React Native**, construindo back‑ends, integrações com APIs (pagamentos, logísticas, mensageria) e front‑ends enxutos e rápidos. Tenho experiência com **Railway** e **GitHub Actions** para CI/CD, além de automações com **Pandas** e jogos/experimentos com **Pygame**.
-
-* 🔭 **Agora:** escalando serviços e ferramentas internas para Pr2tech
-* 🧪 **Stack favorita:** Psk • SQLAlchemy • PostgreSQL • JS • HTML/CSS • React Native (Expo)• React
-* 🛰️ **Interesses:** dados aplicados, e‑commerce, integrações financeiras, UX pragmática
-* 🤝 **Aberto(a) a colaborações** em projetos open source e consultorias de produto
-
----
-
-### Tech Toolbox
-
-<p>
-  <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32"/>
-  <img alt="Flask" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="32"/>
-  <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="32"/>
-  <img alt="SQLAlchemy" title="SQLAlchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="32"/>
-  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32"/>
-  <img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32"/>
-  <img alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32"/>
-  <img alt="React" title="React / React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32"/>
-  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="32"/>
-  <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="32"/>
-  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="32"/>
-  <img alt="Railway" title="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" height="22"/>
-  <img alt="Pandas" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="32"/>
-  <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="32"/>
+  <b>Python • Django • FastAPI • Flask • Kafka • RabbitMQ</b>
 </p>
 
----
+<br>
 
-### Métricas rápidas
+### 🚀 Sobre mim
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estat%C3%ADsticas&theme=tokyonight" alt="Arnold Cainan's GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Arnold Cainan's Streak" />
-  </a>
-</div>
+Engenheiro de Software focado no ecossistema **Python**, especializado na construção de arquiteturas de backend robustas e de alta performance. Minha atuação vai além do código: foco em **escalabilidade**, **boas práticas (Clean Code/SOLID)** e **eficiência operacional**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldcainan&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</div>
+Atualmente, concentro meus esforços em:
+* **Arquitetura Orientada a Eventos:** Implementação de microsserviços desacoplados usando **Apache Kafka** e **RabbitMQ**.
+* **APIs RESTful Modernas:** Desenvolvimento de APIs assíncronas e de baixa latência com **FastAPI** e **Flask**.
+* **Plataformas Complexas:** Engenharia de soluções para E-commerce, LMS (Sistemas de Ensino) e integrações financeiras críticas.
+* **Integração IoT:** Conexão entre sistemas web e hardware embarcado.
 
 ---
 
-### Projetos/Temas que curto construir
+### 🛠 Tech Stack & Ferramentas
 
-* 🛒 **E‑commerce & pagamentos**: carrinho, cupons, sitema de pagamentos, cálculo de frete
-* 🧬 **Saúde digital**: prontuários simples, dashboards e ins com mensageria (WhatsApp/Twilio)
-* 🧩 **Jogos/Simuladores**: Pygame e dispositivos físicos (serial/USB)
-* 🧮 **Data & automações**: ETL leve com Pandas/XLSX, análises operacionais
+**Backend & Linguagens**
+<br>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
-Se quiser trocar ideia, me chame: **arnold.cainan@gmail.com**
+**Mensageria & Dados**
+<br>
+<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+
+**Infraestrutura & DevOps**
+<br>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+---
+
+### 🧠 Domínios de Especialização
+
+* 🛒 **E-commerce & Fintech:** Desenvolvimento de fluxos de checkout, integração de gateways de pagamento e auditoria financeira.
+* ⚡ **Alta Performance:** Otimização de queries e uso de cache (Redis) para aplicações de alto tráfego.
+* 🤖 **Automação & Dados:** Scripts ETL com Pandas e automação de processos repetitivos.
 
 ---
 
 <details>
-  <summary>English version</summary>
+  <summary>🇺🇸 <b>Click to view English Version</b></summary>
 
-Hi! I build **pragmatic digital products** end‑to‑end — from backend to UX. My daily stack: **Python/Flask**, **PostgreSQL/SQLAlchemy**, and **React Native**. I ship on **Railway** and automate with **GitHub Actions** and **Pandas**.
+  <h3>Python Developer | Backend & Scalable APIs</h3>
 
-* Now: scaling internal tools for PR2TECH
-* Interests: e‑commerce/payment flows, health automation, small games
-* Open to collabs & consulting
+  Software Engineer focused on the **Python** ecosystem, specializing in building robust and high-performance backend architectures. I prioritize **scalability**, **clean code**, and **operational efficiency**.
+
+  **Current Focus:**
+  * **Event-Driven Architecture:** Decoupled microservices using **Apache Kafka** and **RabbitMQ**.
+  * **Modern RESTful APIs:** Async, low-latency APIs with **FastAPI** and **Flask**.
+  * **Complex Platforms:** Backend engineering for E-commerce, LMS (Learning Management Systems), and critical financial integrations.
+
+  **Core Stack:** Python, Django, FastAPI, PostgreSQL, Docker, Redis, Kafka.
 
 </details>
 
+<br>
 
-— Obrigado por visitar! ⭐️ Se algum projeto te ajudar, deixe uma star.
+<div align="center">
+  📫 <b>Contato:</b> <a href="mailto:arnold.cainan@gmail.com">arnold.cainan@gmail.com</a>
+</div>
