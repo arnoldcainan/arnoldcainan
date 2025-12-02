@@ -39,25 +39,24 @@
 
 ### Métricas rápidas
 
-<p>
-  <!-- GitHub Stats: Light -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estat%C3%ADsticas" alt="Stats" width="49%" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estatísticas&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&custom_title=Minhas%20estatísticas&theme=default" alt="GitHub Stats" width="48%" />
+  </picture>
 
-  <!-- Streak: Light -->
-  <!--<img src="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=truStreak" width="49%"/> -->
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+    <img src="https://streak-stats.demolab.com?user=arnoldcainan&hide_border=true&theme=default&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="48%" />
+  </picture>
+</div>
 
-<p>
-  <!-- GitHub Stats: Dark only -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arnoldcainan&show_icons=true&rank_icon=github&hide_border=true&theme=github_dam_title=Minhas%20estat%C3%ADsticas#gh-dark-mode-only" alt="Stats dark" width="49%"/>
-  <!-- Streak: Dark only -->
-  <!-- <img src="https://streak-stats.demolab.com?user=USEde_border=true&theme=dark#gh-dark-mode-only" alt="Streak dark" width="49%"/>-->
-</p>
-
-<p>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldcainan&layout=compact&langs_count=10&hide_border=true" alt="Tages" width="49%"/>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldcainan&layout=compact&langs_count=10&hide_border=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldcainan&layout=compact&langs_count=10&hide_border=true&theme=default" alt="Top Languages" width="97%" />
+  </picture>
+</div>
 
 ---
 
